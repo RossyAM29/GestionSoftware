@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG_TEMAS5_RAM", "PROG_TEMAS5_RAM\PROG_TEMAS5_RAM.csproj", "{C7451D2F-1F78-4E96-9173-766E910F3B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7451D2F-1F78-4E96-9173-766E910F3B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7451D2F-1F78-4E96-9173-766E910F3B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7451D2F-1F78-4E96-9173-766E910F3B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7451D2F-1F78-4E96-9173-766E910F3B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D63C7B-E5AD-4253-ADCE-77AC58DF7B03}
+	EndGlobalSection
+EndGlobal
