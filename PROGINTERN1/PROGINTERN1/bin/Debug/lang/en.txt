@@ -1,0 +1,15 @@
+menuArchivo=&File
+menuSalir=Exit
+menuAlumnos=Students
+menuOpciones=&Options
+menuIdiomas=Language
+menuEspañol=Spanish
+menuIngles=English
+menuAyuda=&Help
+menuAcercaDe=About...
+titulo=Main
+BTNALUMNOS=&Students
+titulo2=Students
+lblNombre=Name:
+lblEdad=Age:
+BTNCERRAR=&Close

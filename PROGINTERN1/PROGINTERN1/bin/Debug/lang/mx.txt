@@ -1,0 +1,15 @@
+menuArchivo=&Archivo
+menuSalir=Salir
+menuAlumnos=Alumnos
+menuOpciones=&Opciones
+menuIdiomas=Idiomas
+menuEspañol=Español
+menuIngles=Ingles
+menuAyuda=Ay&uda
+menuAcercaDe=Acerca de...
+titulo=Principal
+BTNALUMNOS=A&lumnos
+titulo2=Alumnos
+lblNombre=Nombre:
+lblEdad=Edad:
+BTNCERRAR=&Cerrar
