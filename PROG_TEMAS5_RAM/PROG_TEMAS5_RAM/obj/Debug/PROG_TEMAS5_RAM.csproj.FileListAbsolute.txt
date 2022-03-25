@@ -1,0 +1,10 @@
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\bin\Debug\PROG_TEMAS5_RAM.exe.config
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\bin\Debug\PROG_TEMAS5_RAM.exe
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\bin\Debug\PROG_TEMAS5_RAM.pdb
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.csproj.AssemblyReference.cache
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.Form1.resources
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.Properties.Resources.resources
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.csproj.GenerateResource.cache
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.csproj.CoreCompileInputs.cache
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.exe
+C:\ProyectosBDCSharp\PROG_TEMAS5_RAM\PROG_TEMAS5_RAM\obj\Debug\PROG_TEMAS5_RAM.pdb
