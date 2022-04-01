@@ -1,0 +1,12 @@
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\bin\Debug\DATOS\BDTIENDA.mdf
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\bin\Debug\DATOS\BDTIENDA_log.ldf
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\bin\Debug\PROGRAMA1.exe.config
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\bin\Debug\PROGRAMA1.exe
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\bin\Debug\PROGRAMA1.pdb
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.csproj.AssemblyReference.cache
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.Form1.resources
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.Properties.Resources.resources
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.csproj.GenerateResource.cache
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.csproj.CoreCompileInputs.cache
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.exe
+C:\ProyectosBDCSharp\PROGRAMA1\PROGRAMA1\obj\Debug\PROGRAMA1.pdb
